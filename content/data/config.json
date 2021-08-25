@@ -32,5 +32,14 @@
             }
         ]
     },
-    "domain": "https://kind-spruce-61b19.netlify.app"
+    "domain": "https://kind-spruce-61b19.netlify.app",
+    "footer": {
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
