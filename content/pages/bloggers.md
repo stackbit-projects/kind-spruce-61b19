@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: For Exclusive Bloggers Only
 seo:
   title: ''
   description: ''
