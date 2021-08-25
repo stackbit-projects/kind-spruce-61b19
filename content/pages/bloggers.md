@@ -8,9 +8,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+## Let's get started with something.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*
