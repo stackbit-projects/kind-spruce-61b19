@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Unlimited Editing on Elementor
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      No more hiring, or signing multiple contracts, Just pay a affordable
+      monthly price for us to manage it.
     actions:
       - label: Learn More
         url: /features
